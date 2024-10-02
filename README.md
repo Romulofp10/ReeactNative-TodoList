@@ -9,7 +9,7 @@ Aplicação criada para teste do whatsMenu
 ## 💻 Tecnologias Utilizadas nesse Projeto
 <div style="display: inline_block">
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" height="50" width="60" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdGOcsol5dozKeGqpVLC13viYimp-07xdOZAs"
+  <img align="center" height="50" width="60" src="https://miro.medium.com/v2/resize:fit:300/1*R4c8lHBHuH5qyqOtZb3h-w.png">
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
 </div>
 
