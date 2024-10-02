@@ -25,6 +25,7 @@ Aplicação criada para teste do whatsMenu
 ## Decisões técnicas
 -Utilizado React EXPO para aplicação , por conta do processamento da maquina.
 - Utilizei o firebase como tecnologia de persistencia de dados o FireStore, pois é a que tenho mais conhecimento sobre ela. Alem da ferramente snapshot atualizar frequentemente assim que tem uma alteração no banco.
+- Minha logica foi colocar o EditTask como  nessse momomento o usuario colocar a task como incompleta ou completa, podendo alterar tudo. E visivelmente poder ver a diferença em seguida.
 - Minhas aplicações foram criadas em firebase até  o momento e por conta do tempo para efetuar o desafio, preferi seguir com ela. 
 
 
@@ -36,6 +37,8 @@ $ npm install
 
 ## Rodar o Projeto
 $ npx expo start 
+
+## Baixar APP na PlayStore Expo Go, ler o QRCODE para acesso ao programa.
 
 
 
