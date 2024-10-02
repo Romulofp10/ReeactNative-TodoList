@@ -6,6 +6,7 @@ import { useState, useEffect } from "react";
 import { Picker } from "@react-native-picker/picker";
 import { TaskDTO } from "../models/TaskProps";
 import Toast from 'react-native-toast-message'
+import { useTasksContext } from "../context/TasksContext";
 
 
 export function FormTasks() {
@@ -20,10 +21,17 @@ export function FormTasks() {
         })
     }
 
-    const [name, setName] = useState('');
-    const [description, setDescription] = useState('');
-    const [error,setError] = useState('');
-    const [status, setStatus] = useState(1);
+    const {
+        name,
+        setName,
+        description,
+        setDescription,
+        error,
+        setError,
+        status,
+        setStatus,
+    } = useTasksContext();
+
     const [showInput, setShowInput] = useState(false)
     const [isEditing, setIsEditing] = useState('');
 

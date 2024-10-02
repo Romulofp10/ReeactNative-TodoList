@@ -1,6 +1,7 @@
 import { View, StyleSheet,Animated} from "react-native";
 import { FormTasks } from "./src/components/FormTasks";
 import { useEffect, useRef } from "react";
+import { TasksProvider } from "./src/context/TasksContext";
 
 
 export default function App() {
@@ -25,7 +26,10 @@ export default function App() {
 
   return (
     <View style={styles.container}>
-     <FormTasks/>
+      <TasksProvider>
+        <FormTasks/>
+      </TasksProvider>
+     
     </View>
   )
 }
