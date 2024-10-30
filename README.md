@@ -1,9 +1,5 @@
 # REACTNATIVEAPP - FULLSTACK
 
-Aplicação criada para teste do whatsMenu
-
-
-
 <br>
 
 ## 💻 Tecnologias Utilizadas nesse Projeto
