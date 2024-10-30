@@ -40,21 +40,3 @@ $ npx expo start
 
 ## Baixar APP na PlayStore Expo Go, ler o QRCODE para acesso ao programa.
 
-
-
-
-
-<br>
-
-## Considerações
--Meus estudos estavam seguindo para área de desenvolvimento web  com as seguintes tecnologias: Javascript,ReactJS,Typescript e  Next. Em dois dias eu vi o ReactNative e consegui aplicar, e no prazo bem menor pois trabalho. Espero que eu tenha a oportunidade de trabalhar com vocês e demostrar mais da minha eficiencia na equipe.
-
--Posso garantir que meu aprendizado é rápido além disso meu foco e objetivo  é de  total comprometimento e esforço para meu crescimento profissional e da empresa, fazendo assim história com a marca WhatsMenu.
-
- -Aceito todo tipo de comentário para que eu possa melhorar, e em breve possa trabalhar juntos fico muito feliz! Obrigado pela oportunidade mais uma vez. 
-<br>
-
-<br>
-## Projeto aplicando ReactJS
-[lojadev-c3.web.app](https://lojadev-c3.web.app/)
-<br>
